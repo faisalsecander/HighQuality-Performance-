@@ -1,4 +1,4 @@
-# HighQuality-Performance-
+pubg mobile# HighQuality-Performance-
 Introducing HQP (High Quality Performance) for Android gaming – the ultimate solution for maximizing your gaming experience. Say goodbye to lags and hello to smooth gameplay.
 
 This script aims at improving the device performance indispensably especially while gaming.Here's what it does:
